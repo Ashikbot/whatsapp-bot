@@ -21,9 +21,9 @@ This is a Userbot based on WhatsAsena written by [ASHIK SER](https://github.com/
    <a href="https://github.com/Ashikbot/whatsapp-bot/edit/master/README.md"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://github.com/Ashikbot/whatsapp-bot/edit/master/README.md)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashikbot/whatsapp-bot/edit/master/README.md -->
 
 | Active | Group commands |
 | :----: | :------------- |
